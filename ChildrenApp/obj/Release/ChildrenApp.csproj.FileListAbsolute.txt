@@ -1,0 +1,50 @@
+I:\Работа\ЛР\БД наталья\ChildrenApp\ChildrenApp\bin\Release\ChildrenApp.exe.config
+I:\Работа\ЛР\БД наталья\ChildrenApp\ChildrenApp\bin\Release\ChildrenApp.exe
+I:\Работа\ЛР\БД наталья\ChildrenApp\ChildrenApp\bin\Release\ChildrenApp.pdb
+I:\Работа\ЛР\БД наталья\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.csprojAssemblyReference.cache
+I:\Работа\ЛР\БД наталья\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.Fcg.resources
+I:\Работа\ЛР\БД наталья\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.Fchildren.resources
+I:\Работа\ЛР\БД наталья\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.Fcl.resources
+I:\Работа\ЛР\БД наталья\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.Fguard.resources
+I:\Работа\ЛР\БД наталья\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.Flessons.resources
+I:\Работа\ЛР\БД наталья\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.Form1.resources
+I:\Работа\ЛР\БД наталья\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.Fteacher.resources
+I:\Работа\ЛР\БД наталья\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.Properties.Resources.resources
+I:\Работа\ЛР\БД наталья\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.csproj.GenerateResource.cache
+I:\Работа\ЛР\БД наталья\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.csproj.CoreCompileInputs.cache
+I:\Работа\ЛР\БД наталья\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.exe
+I:\Работа\ЛР\БД наталья\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.pdb
+C:\Users\natal\OneDrive\Рабочий стол\ChildrenApp\ChildrenApp\bin\Release\ChildrenApp.exe.config
+C:\Users\natal\OneDrive\Рабочий стол\ChildrenApp\ChildrenApp\bin\Release\ChildrenApp.exe
+C:\Users\natal\OneDrive\Рабочий стол\ChildrenApp\ChildrenApp\bin\Release\ChildrenApp.pdb
+C:\Users\natal\OneDrive\Рабочий стол\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.csproj.AssemblyReference.cache
+C:\Users\natal\OneDrive\Рабочий стол\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.Fcg.resources
+C:\Users\natal\OneDrive\Рабочий стол\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.Fchildren.resources
+C:\Users\natal\OneDrive\Рабочий стол\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.Fcl.resources
+C:\Users\natal\OneDrive\Рабочий стол\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.Fguard.resources
+C:\Users\natal\OneDrive\Рабочий стол\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.Flessons.resources
+C:\Users\natal\OneDrive\Рабочий стол\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.Form1.resources
+C:\Users\natal\OneDrive\Рабочий стол\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.Fteacher.resources
+C:\Users\natal\OneDrive\Рабочий стол\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.Properties.Resources.resources
+C:\Users\natal\OneDrive\Рабочий стол\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.csproj.GenerateResource.cache
+C:\Users\natal\OneDrive\Рабочий стол\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Рабочий стол\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.exe
+C:\Users\natal\OneDrive\Рабочий стол\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.pdb
+f:\Работа\Children\ChildrenApp\ChildrenApp\bin\Release\ChildrenApp.exe.config
+f:\Работа\Children\ChildrenApp\ChildrenApp\bin\Release\ChildrenApp.exe
+f:\Работа\Children\ChildrenApp\ChildrenApp\bin\Release\ChildrenApp.pdb
+f:\Работа\Children\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.csproj.AssemblyReference.cache
+f:\Работа\Children\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.Fcg.resources
+f:\Работа\Children\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.Fchildren.resources
+f:\Работа\Children\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.Fcl.resources
+f:\Работа\Children\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.Fguard.resources
+f:\Работа\Children\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.Flessons.resources
+f:\Работа\Children\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.Form1.resources
+f:\Работа\Children\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.Fteacher.resources
+f:\Работа\Children\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.Properties.Resources.resources
+f:\Работа\Children\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.csproj.GenerateResource.cache
+f:\Работа\Children\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.csproj.CoreCompileInputs.cache
+f:\Работа\Children\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.exe
+f:\Работа\Children\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.pdb
+F:\Работа\Children\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.Flogin.resources
+F:\Работа\Children\ChildrenApp\ChildrenApp\obj\Release\ChildrenApp.Fsetting.resources

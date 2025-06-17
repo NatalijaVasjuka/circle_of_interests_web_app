@@ -1,0 +1,103 @@
+D:\Студенты\БД наталья\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.csproj.AssemblyReference.cache
+D:\Студенты\БД наталья\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Fchildren.resources
+D:\Студенты\БД наталья\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Form1.resources
+D:\Студенты\БД наталья\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Properties.Resources.resources
+D:\Студенты\БД наталья\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.csproj.GenerateResource.cache
+D:\Студенты\БД наталья\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.csproj.CoreCompileInputs.cache
+D:\Студенты\БД наталья\ChildrenApp\ChildrenApp\bin\Debug\ChildrenApp.exe.config
+D:\Студенты\БД наталья\ChildrenApp\ChildrenApp\bin\Debug\ChildrenApp.exe
+D:\Студенты\БД наталья\ChildrenApp\ChildrenApp\bin\Debug\ChildrenApp.pdb
+D:\Студенты\БД наталья\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.exe
+D:\Студенты\БД наталья\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.pdb
+D:\Студенты\БД наталья\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Fguard.resources
+D:\Студенты\БД наталья\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Fteacher.resources
+D:\Студенты\БД наталья\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Flessons.resources
+i:\Работа\ЛР\БД наталья\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.csprojAssemblyReference.cache
+i:\Работа\ЛР\БД наталья\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Fcg.resources
+i:\Работа\ЛР\БД наталья\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Fchildren.resources
+i:\Работа\ЛР\БД наталья\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Fguard.resources
+i:\Работа\ЛР\БД наталья\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Flessons.resources
+i:\Работа\ЛР\БД наталья\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Form1.resources
+i:\Работа\ЛР\БД наталья\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Fteacher.resources
+i:\Работа\ЛР\БД наталья\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Properties.Resources.resources
+i:\Работа\ЛР\БД наталья\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.csproj.GenerateResource.cache
+i:\Работа\ЛР\БД наталья\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.csproj.CoreCompileInputs.cache
+i:\Работа\ЛР\БД наталья\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.exe
+i:\Работа\ЛР\БД наталья\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.pdb
+i:\Работа\ЛР\БД наталья\ChildrenApp\ChildrenApp\bin\Debug\ChildrenApp.exe.config
+i:\Работа\ЛР\БД наталья\ChildrenApp\ChildrenApp\bin\Debug\ChildrenApp.exe
+i:\Работа\ЛР\БД наталья\ChildrenApp\ChildrenApp\bin\Debug\ChildrenApp.pdb
+i:\Работа\ЛР\БД наталья\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Fcl.resources
+C:\Users\natal\OneDrive\Рабочий стол\ChildrenApp\ChildrenApp\bin\Debug\ChildrenApp.exe.config
+C:\Users\natal\OneDrive\Рабочий стол\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.exe
+C:\Users\natal\OneDrive\Рабочий стол\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.pdb
+C:\Users\natal\OneDrive\Рабочий стол\ChildrenApp\ChildrenApp\bin\Debug\ChildrenApp.exe
+C:\Users\natal\OneDrive\Рабочий стол\ChildrenApp\ChildrenApp\bin\Debug\ChildrenApp.pdb
+C:\Users\natal\OneDrive\Рабочий стол\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.csprojResolveAssemblyReference.cache
+C:\Users\natal\OneDrive\Рабочий стол\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Fcg.resources
+C:\Users\natal\OneDrive\Рабочий стол\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Fchildren.resources
+C:\Users\natal\OneDrive\Рабочий стол\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Fcl.resources
+C:\Users\natal\OneDrive\Рабочий стол\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Fguard.resources
+C:\Users\natal\OneDrive\Рабочий стол\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Flessons.resources
+C:\Users\natal\OneDrive\Рабочий стол\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Form1.resources
+C:\Users\natal\OneDrive\Рабочий стол\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Fteacher.resources
+C:\Users\natal\OneDrive\Рабочий стол\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Properties.Resources.resources
+C:\Users\natal\OneDrive\Рабочий стол\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.csproj.GenerateResource.Cache
+C:\Users\natal\OneDrive\Вложения\Документы\ChildrenApp\ChildrenApp\bin\Debug\ChildrenApp.exe.config
+C:\Users\natal\OneDrive\Вложения\Документы\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.exe
+C:\Users\natal\OneDrive\Вложения\Документы\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.pdb
+F:\Работа\Children\ChildrenApp\ChildrenApp\bin\Debug\ChildrenApp.exe.config
+F:\Работа\Children\ChildrenApp\ChildrenApp\bin\Debug\ChildrenApp.exe
+F:\Работа\Children\ChildrenApp\ChildrenApp\bin\Debug\ChildrenApp.pdb
+F:\Работа\Children\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.csproj.AssemblyReference.cache
+F:\Работа\Children\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Fcg.resources
+F:\Работа\Children\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Fchildren.resources
+F:\Работа\Children\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Fcl.resources
+F:\Работа\Children\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Fguard.resources
+F:\Работа\Children\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Flessons.resources
+F:\Работа\Children\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Flogin.resources
+F:\Работа\Children\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Form1.resources
+F:\Работа\Children\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Fsetting.resources
+F:\Работа\Children\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Fteacher.resources
+F:\Работа\Children\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Properties.Resources.resources
+F:\Работа\Children\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.csproj.GenerateResource.cache
+F:\Работа\Children\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.csproj.CoreCompileInputs.cache
+F:\Работа\Children\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.exe
+F:\Работа\Children\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.pdb
+f:\Работа\Children\ChildrenApp (2)\ChildrenApp\ChildrenApp\bin\Debug\ChildrenApp.exe.config
+f:\Работа\Children\ChildrenApp (2)\ChildrenApp\ChildrenApp\bin\Debug\ChildrenApp.exe
+f:\Работа\Children\ChildrenApp (2)\ChildrenApp\ChildrenApp\bin\Debug\ChildrenApp.pdb
+f:\Работа\Children\ChildrenApp (2)\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.csproj.AssemblyReference.cache
+f:\Работа\Children\ChildrenApp (2)\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Fcg.resources
+f:\Работа\Children\ChildrenApp (2)\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Fchildren.resources
+f:\Работа\Children\ChildrenApp (2)\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Fcl.resources
+f:\Работа\Children\ChildrenApp (2)\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Fguard.resources
+f:\Работа\Children\ChildrenApp (2)\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Flessons.resources
+f:\Работа\Children\ChildrenApp (2)\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Flogin.resources
+f:\Работа\Children\ChildrenApp (2)\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Form1.resources
+f:\Работа\Children\ChildrenApp (2)\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Fsetting.resources
+f:\Работа\Children\ChildrenApp (2)\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Fteacher.resources
+f:\Работа\Children\ChildrenApp (2)\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Properties.Resources.resources
+f:\Работа\Children\ChildrenApp (2)\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.csproj.GenerateResource.cache
+f:\Работа\Children\ChildrenApp (2)\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.csproj.CoreCompileInputs.cache
+f:\Работа\Children\ChildrenApp (2)\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.exe
+f:\Работа\Children\ChildrenApp (2)\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.pdb
+C:\Users\hp\Desktop\ChildrenApp\ChildrenApp\ChildrenApp\bin\Debug\ChildrenApp.exe.config
+C:\Users\hp\Desktop\ChildrenApp\ChildrenApp\ChildrenApp\bin\Debug\ChildrenApp.exe
+C:\Users\hp\Desktop\ChildrenApp\ChildrenApp\ChildrenApp\bin\Debug\ChildrenApp.pdb
+C:\Users\hp\Desktop\ChildrenApp\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\ChildrenApp\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.exe.config
+C:\Users\hp\Desktop\ChildrenApp\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Fcg.resources
+C:\Users\hp\Desktop\ChildrenApp\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Fchildren.resources
+C:\Users\hp\Desktop\ChildrenApp\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Fcl.resources
+C:\Users\hp\Desktop\ChildrenApp\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Fguard.resources
+C:\Users\hp\Desktop\ChildrenApp\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Flessons.resources
+C:\Users\hp\Desktop\ChildrenApp\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Flogin.resources
+C:\Users\hp\Desktop\ChildrenApp\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Form1.resources
+C:\Users\hp\Desktop\ChildrenApp\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Fsetting.resources
+C:\Users\hp\Desktop\ChildrenApp\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Fteacher.resources
+C:\Users\hp\Desktop\ChildrenApp\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.Properties.Resources.resources
+C:\Users\hp\Desktop\ChildrenApp\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\ChildrenApp\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ChildrenApp\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.exe
+C:\Users\hp\Desktop\ChildrenApp\ChildrenApp\ChildrenApp\obj\Debug\ChildrenApp.pdb
